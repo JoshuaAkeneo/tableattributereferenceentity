@@ -3,7 +3,7 @@
     "description": "An Akeneo PIM Bundle by Flagbit that adds a multi-dimensional data representation in the form of tables as an attribute for PIM Enterprise Reference Entities",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Flagbit\\Bundle\\ReferenceEntityTableBundle\\": "src/"
