@@ -1,0 +1,17 @@
+# Assets and user uploads
+/web/bundles/
+/web/uploads/
+
+# PHPUnit
+/phpunit.xml
+/tests/var
+/public
+/config
+
+# Build data
+/build/
+
+# Composer
+/composer.phar
+/composer.lock
+/vendor/
